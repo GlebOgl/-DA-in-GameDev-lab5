@@ -48,7 +48,9 @@
 - ![image](https://user-images.githubusercontent.com/79518116/205060455-336ea969-4c3e-4e6f-a897-7472e5822660.png)
 - Результаты 
 - ![image](https://user-images.githubusercontent.com/79518116/205061165-b57c575f-ed29-4676-8bd9-f36807818cf9.png)
-
+- TensorBoard графики
+- ![image](https://user-images.githubusercontent.com/79518116/205084576-15578abc-d563-47cb-a815-cb79bf3d69bd.png)
+- Изменение
 
 ## Задание 2 
 ### построить графики зависимости количества эпох от ошибок обучения. Указать от чего зависит необходимое количество эпох
