@@ -1,24 +1,24 @@
 {
     "Economic": {
-        "elo": 1182.0630983317778,
+        "elo": 1199.0839536708713,
         "checkpoints": [
             {
-                "steps": 36972,
-                "file_path": "results\\Economic\\Economic\\Economic-36972.onnx",
-                "reward": 0.5,
-                "creation_time": 1666106094.6023777,
+                "steps": 50688,
+                "file_path": "results\\Economic\\Economic\\Economic-50688.onnx",
+                "reward": 0.9166666666666666,
+                "creation_time": 1669917244.4844198,
                 "auxillary_file_paths": [
-                    "results\\Economic\\Economic\\Economic-36972.pt"
+                    "results\\Economic\\Economic\\Economic-50688.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 36972,
+            "steps": 50688,
             "file_path": "results\\Economic\\Economic.onnx",
-            "reward": 0.5,
-            "creation_time": 1666106094.6023777,
+            "reward": 0.9166666666666666,
+            "creation_time": 1669917244.4844198,
             "auxillary_file_paths": [
-                "results\\Economic\\Economic\\Economic-36972.pt"
+                "results\\Economic\\Economic\\Economic-50688.pt"
             ]
         }
     },
