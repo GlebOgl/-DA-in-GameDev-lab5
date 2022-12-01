@@ -50,7 +50,9 @@
 - ![image](https://user-images.githubusercontent.com/79518116/205061165-b57c575f-ed29-4676-8bd9-f36807818cf9.png)
 - TensorBoard графики
 - ![image](https://user-images.githubusercontent.com/79518116/205084576-15578abc-d563-47cb-a815-cb79bf3d69bd.png)
-- Изменение
+- Изменение параметров economic.yaml, изменил batch_size до 512
+- ![image](https://user-images.githubusercontent.com/79518116/205090448-c394aed4-7f37-47ab-a580-27fa5fbc13fa.png)
+- 
 
 ## Задание 2 
 ### построить графики зависимости количества эпох от ошибок обучения. Указать от чего зависит необходимое количество эпох
