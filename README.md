@@ -50,8 +50,15 @@
 - ![image](https://user-images.githubusercontent.com/79518116/205061165-b57c575f-ed29-4676-8bd9-f36807818cf9.png)
 - TensorBoard графики
 - ![image](https://user-images.githubusercontent.com/79518116/205084576-15578abc-d563-47cb-a815-cb79bf3d69bd.png)
-- Изменение параметров economic.yaml, изменил batch_size до 512
+- Изменение параметров economic.yaml, изменил batch_size до 512(количество опытов на каждой итерации)
 - ![image](https://user-images.githubusercontent.com/79518116/205090448-c394aed4-7f37-47ab-a580-27fa5fbc13fa.png)
+- изменил beta до 2.0e-2 (регулирует энтропию)
+- ![image](https://user-images.githubusercontent.com/79518116/205117077-9a638923-f7ab-45b1-9d6d-54da6f0b500c.png)
+- рост общей награды и снижение потери функции
+- изменил num_epoch до 6
+- ![image](https://user-images.githubusercontent.com/79518116/205119981-23759058-060a-4816-a98c-04709bcf22b7.png)
+- скачкообразное снижение общей награды и потери функции
+- изменил epsilon до 0.5(влияет на быстроту развития поведения)
 - 
 
 ## Задание 2 
